@@ -17,7 +17,7 @@ Please use the following citation:
 
 ### Dataset
 
-Will-They-Won't-They (WT-WT) is a large dataset of English tweets targeted at stance detection for the rumor verification task. The dataset is constructed based on tweets that discuss five recent mergers and acquisition (M&A) operations of US companies, mainly from the healthcare sector.
+Will-They-Won't-They (WT-WT) is a large dataset of English tweets targeted at stance detection for the rumor verification task. The dataset is constructed based on tweets that discuss five recent merger and acquisition (M&A) operations of US companies, mainly from the healthcare sector.
 
 All the annotations are carried out by domain experts; therefore, the dataset constitutes a high-quality and reliable benchmark for future research in stance detection.
 
