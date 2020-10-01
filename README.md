@@ -1,6 +1,6 @@
 ## Repository for the ACL 2020 paper: <br> Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter
 
-Link to the paper: [Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter](https://github.com/cambridge-wtwt/acl2020-wtwt-tweets)
+Link to the paper: [Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter](https://arxiv.org/abs/2005.00388)
 
 Please use the following citation:
 
